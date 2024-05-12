@@ -1,0 +1,15 @@
+parseltongue_generator_config:
+
+  name: Parseltongue Generator
+  version: 1.0
+
+  settings:
+    length: 100  # Length of the generated text
+    vowels: aeiou  # Vowels to be used in the generated text
+    snake_sounds:
+      - sss
+      - hiss
+      - slither
+      - serpent
+      - fang
+    repetition: true  # Allow repetition of snake sounds

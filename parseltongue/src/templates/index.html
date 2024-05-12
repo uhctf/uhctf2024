@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Parseltongue generator</title>
+    <style>
+        body {
+            background-color: #1a472a; /* Slytherin green */
+            color: #d3d3d3; /* Light gray */
+            font-family: 'Arial', sans-serif;
+        }
+
+        h1 {
+            color: #2a623d; /* Dark green */
+        }
+
+        pre {
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            background-color: #0d2b1e; /* Darker green for result box */
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #2a623d; /* Dark green */
+        }
+
+        input[type="file"] {
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #2a623d; /* Dark green */
+        }
+
+        input[type="submit"] {
+            padding: 10px 20px;
+            border-radius: 5px;
+            border: none;
+            background-color: #2a623d; /* Dark green */
+            color: #d3d3d3; /* Light gray */
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #1a472a; /* Slytherin green on hover */
+        }
+
+        form {
+            margin-top: 20px;
+        }
+    </style>
+<body>
+    <h1>Parseltongue generator</h1>
+    <form method="POST" enctype="multipart/form-data">
+        <input type="file" name="yaml_file">
+        <input type="submit" value="Upload Config (YAML)">
+    </form>
+    {% if result %}
+        <h2>Result:</h2>
+        <pre >{{ result }}</pre>
+    {% endif %}
+</body>
+</html>

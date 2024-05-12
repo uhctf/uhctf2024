@@ -1,0 +1,9 @@
+<h1>{{.Name}}</h1>
+
+<p>Pages:</p>
+
+<ul>
+    {{range .Pages}}
+    <li><a href="/view/{{.}}">{{.}}</a></li>
+    {{end}}
+</ul>

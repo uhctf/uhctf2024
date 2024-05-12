@@ -1,0 +1,3 @@
+# Extra dependencies, needed if you want to use the client as well.
+dnspython==2.3.0
+termcolor==2.2.0

@@ -1,0 +1,4 @@
+# Used for the server
+twisted==22.10.0
+#git+https://github.com/dzshn/python-tetris@b5a7277
+numpy==1.26.3

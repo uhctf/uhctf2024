@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Corrupted Vision</title>
+</head>
+
+<body>
+    <div style="text-align:center;padding-top: 3rem;">
+        <img style="width: 8rem;" src={{ url_for("static", filename="logo.png" ) }}>
+        <p>
+            Welcome, {{user_name}}!</br>
+            Can you reach the beginning, the root of all users?</br>
+        </p>
+        <p>
+            Your user ID: {{user_id}}</br>
+            Your reward: <b>{{flag if user_id == 0 else None}}</b>
+        </p>
+    </div>
+</body>
+
+</html>

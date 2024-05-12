@@ -1,0 +1,260 @@
+Dear TEAM 74
+Your codewords are:
+||Duvel|| (category ||Recent data breach/exploit||)
+||Arch|| (category ||Non-pentesting distro||)
+||Go(lang)|| (category ||Programming Language, not used at the CTF||)
+||Spear-phishing|| (category ||Generic cybersecurity term||)
+||1337|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+
+Dear TEAM 75
+Your codewords are:
+||Limburg.net|| (category ||Recent data breach/exploit||)
+||Ubuntu|| (category ||Non-pentesting distro||)
+||TypeScript|| (category ||Programming Language, not used at the CTF||)
+||Spear-phishing|| (category ||Generic cybersecurity term||)
+||The Pirate Bay|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+
+Dear TEAM 76
+Your codewords are:
+||Xz|| (category ||Recent data breach/exploit||)
+||Ubuntu|| (category ||Non-pentesting distro||)
+||TypeScript|| (category ||Programming Language, not used at the CTF||)
+||Spear-phishing|| (category ||Generic cybersecurity term||)
+||1337|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+
+Dear TEAM 77
+Your codewords are:
+||Duvel|| (category ||Recent data breach/exploit||)
+||NixOS|| (category ||Non-pentesting distro||)
+||Rust|| (category ||Programming Language, not used at the CTF||)
+||Tor (network)|| (category ||Generic cybersecurity term||)
+||Pepe|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+
+Dear TEAM 78
+Your codewords are:
+||Xz|| (category ||Recent data breach/exploit||)
+||Ubuntu|| (category ||Non-pentesting distro||)
+||Go(lang)|| (category ||Programming Language, not used at the CTF||)
+||Spear-phishing|| (category ||Generic cybersecurity term||)
+||Pepe|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+
+Dear TEAM 79
+Your codewords are:
+||Edpnet|| (category ||Recent data breach/exploit||)
+||NixOS|| (category ||Non-pentesting distro||)
+||C++|| (category ||Programming Language, not used at the CTF||)
+||Spear-phishing|| (category ||Generic cybersecurity term||)
+||The Pirate Bay|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+
+Dear TEAM 80
+Your codewords are:
+||Edpnet|| (category ||Recent data breach/exploit||)
+||Ubuntu|| (category ||Non-pentesting distro||)
+||Rust|| (category ||Programming Language, not used at the CTF||)
+||Spear-phishing|| (category ||Generic cybersecurity term||)
+||The Pirate Bay|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+
+Dear TEAM 81
+Your codewords are:
+||Duvel|| (category ||Recent data breach/exploit||)
+||Arch|| (category ||Non-pentesting distro||)
+||Rust|| (category ||Programming Language, not used at the CTF||)
+||DDoS|| (category ||Generic cybersecurity term||)
+||1337|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+
+Dear TEAM 82
+Your codewords are:
+||Xz|| (category ||Recent data breach/exploit||)
+||Ubuntu|| (category ||Non-pentesting distro||)
+||Rust|| (category ||Programming Language, not used at the CTF||)
+||DDoS|| (category ||Generic cybersecurity term||)
+||The Pirate Bay|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+
+Dear TEAM 83
+Your codewords are:
+||Xz|| (category ||Recent data breach/exploit||)
+||Arch|| (category ||Non-pentesting distro||)
+||TypeScript|| (category ||Programming Language, not used at the CTF||)
+||DDoS|| (category ||Generic cybersecurity term||)
+||Rickroll|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+
+Dear TEAM 84
+Your codewords are:
+||Limburg.net|| (category ||Recent data breach/exploit||)
+||Ubuntu|| (category ||Non-pentesting distro||)
+||TypeScript|| (category ||Programming Language, not used at the CTF||)
+||Deepfake|| (category ||Generic cybersecurity term||)
+||1337|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+
+Dear TEAM 85
+Your codewords are:
+||Duvel|| (category ||Recent data breach/exploit||)
+||NixOS|| (category ||Non-pentesting distro||)
+||TypeScript|| (category ||Programming Language, not used at the CTF||)
+||Spear-phishing|| (category ||Generic cybersecurity term||)
+||The Pirate Bay|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+
+Dear TEAM 86
+Your codewords are:
+||Limburg.net|| (category ||Recent data breach/exploit||)
+||Ubuntu|| (category ||Non-pentesting distro||)
+||C++|| (category ||Programming Language, not used at the CTF||)
+||Spear-phishing|| (category ||Generic cybersecurity term||)
+||Rickroll|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+
+Dear TEAM 87
+Your codewords are:
+||Duvel|| (category ||Recent data breach/exploit||)
+||NixOS|| (category ||Non-pentesting distro||)
+||Rust|| (category ||Programming Language, not used at the CTF||)
+||DDoS|| (category ||Generic cybersecurity term||)
+||Rickroll|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+
+Dear TEAM 88
+Your codewords are:
+||Xz|| (category ||Recent data breach/exploit||)
+||Arch|| (category ||Non-pentesting distro||)
+||Go(lang)|| (category ||Programming Language, not used at the CTF||)
+||Spear-phishing|| (category ||Generic cybersecurity term||)
+||Rickroll|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+
+Dear TEAM 89
+Your codewords are:
+||Duvel|| (category ||Recent data breach/exploit||)
+||Arch|| (category ||Non-pentesting distro||)
+||C++|| (category ||Programming Language, not used at the CTF||)
+||DDoS|| (category ||Generic cybersecurity term||)
+||Rickroll|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+
+Dear TEAM 90
+Your codewords are:
+||Xz|| (category ||Recent data breach/exploit||)
+||Fedora|| (category ||Non-pentesting distro||)
+||Rust|| (category ||Programming Language, not used at the CTF||)
+||Spear-phishing|| (category ||Generic cybersecurity term||)
+||Rickroll|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+
+Dear TEAM 91
+Your codewords are:
+||Xz|| (category ||Recent data breach/exploit||)
+||Arch|| (category ||Non-pentesting distro||)
+||TypeScript|| (category ||Programming Language, not used at the CTF||)
+||DDoS|| (category ||Generic cybersecurity term||)
+||The Pirate Bay|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+
+Dear TEAM 92
+Your codewords are:
+||Duvel|| (category ||Recent data breach/exploit||)
+||Ubuntu|| (category ||Non-pentesting distro||)
+||Rust|| (category ||Programming Language, not used at the CTF||)
+||DDoS|| (category ||Generic cybersecurity term||)
+||Pepe|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+
+Dear TEAM 93
+Your codewords are:
+||Duvel|| (category ||Recent data breach/exploit||)
+||Fedora|| (category ||Non-pentesting distro||)
+||Rust|| (category ||Programming Language, not used at the CTF||)
+||DDoS|| (category ||Generic cybersecurity term||)
+||The Pirate Bay|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+
+Dear TEAM 94
+Your codewords are:
+||Duvel|| (category ||Recent data breach/exploit||)
+||NixOS|| (category ||Non-pentesting distro||)
+||Go(lang)|| (category ||Programming Language, not used at the CTF||)
+||DDoS|| (category ||Generic cybersecurity term||)
+||Pepe|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+
+Dear TEAM 95
+Your codewords are:
+||Limburg.net|| (category ||Recent data breach/exploit||)
+||NixOS|| (category ||Non-pentesting distro||)
+||Rust|| (category ||Programming Language, not used at the CTF||)
+||Spear-phishing|| (category ||Generic cybersecurity term||)
+||Pepe|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+
+Dear TEAM 96
+Your codewords are:
+||Xz|| (category ||Recent data breach/exploit||)
+||Arch|| (category ||Non-pentesting distro||)
+||C++|| (category ||Programming Language, not used at the CTF||)
+||DDoS|| (category ||Generic cybersecurity term||)
+||Rickroll|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+
+Dear TEAM 97
+Your codewords are:
+||Edpnet|| (category ||Recent data breach/exploit||)
+||NixOS|| (category ||Non-pentesting distro||)
+||TypeScript|| (category ||Programming Language, not used at the CTF||)
+||DDoS|| (category ||Generic cybersecurity term||)
+||1337|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+
+Dear TEAM 98
+Your codewords are:
+||Duvel|| (category ||Recent data breach/exploit||)
+||Arch|| (category ||Non-pentesting distro||)
+||TypeScript|| (category ||Programming Language, not used at the CTF||)
+||Tor (network)|| (category ||Generic cybersecurity term||)
+||1337|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+
+Dear TEAM 99
+Your codewords are:
+||Duvel|| (category ||Recent data breach/exploit||)
+||Arch|| (category ||Non-pentesting distro||)
+||TypeScript|| (category ||Programming Language, not used at the CTF||)
+||Tor (network)|| (category ||Generic cybersecurity term||)
+||The Pirate Bay|| (category ||Internet culture||)
+Every team has one word of each category to make it fair.
+If you can make a CTF crew member say one of these words, ask them for the flag.
+

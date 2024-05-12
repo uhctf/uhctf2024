@@ -1,0 +1,11 @@
+FROM golang:1.22-alpine as build
+WORKDIR /src
+COPY wiki/wiki.go .
+RUN go build -o /bin/wiki ./wiki.go
+
+FROM alpine:3.19
+WORKDIR /wiki
+COPY --from=build /bin/wiki /bin/wiki
+COPY ./wiki/ /wiki
+
+CMD [ "/bin/wiki" ]
